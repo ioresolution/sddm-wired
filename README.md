@@ -26,4 +26,4 @@ My initial goal was to implement what slowayy was trying to go for here (current
 
 Which I failed to do. Thats asking for a lot! or (at least to me). I think, this one is good as it is right now. 
 
-![](https://github.com/ioresolution/sddm-wired/blob/main/sddm-wired/Preview.png)
+![](https://github.com/ioresolution/sddm-wired/blob/main/Preview.png)

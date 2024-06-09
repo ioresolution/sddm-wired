@@ -9,7 +9,7 @@ credits to [slowayyy](https://github.com/slowayy/SDDM-Lain-Wired/) for images an
 ### Installation :-
 
 - clone this directory `git clone https://github.com/ioresolution/sddm-wired`
-- copy directory to  `/usr/share/sddm/themes/` using `cp sddm-wired /usr/share/sddm/themes/`
+- copy directory to  `/usr/share/sddm/themes/` using `sudo cp -r sddm-wired /usr/share/sddm/themes/`
 - install ```sddm``` ```qt5-multimedia```  ```qt5-quickcontrols``` ````noto-fonts````
 - set sddm as your current login manager ```systemctl enable sddm && systemctl start sddm```
 
@@ -25,5 +25,6 @@ Current=sddm-wired
 #### To-Do 
 
 - idk, create an issue if you have suggestion;)
+#
 
 ![](https://github.com/ioresolution/sddm-wired/blob/main/Preview.png)

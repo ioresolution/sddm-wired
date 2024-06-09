@@ -55,7 +55,7 @@ Rectangle {
 
 		Qqc.Label {
 			Layout.alignment: Qt.AlignCenter
-			text: "User ID : "
+			text: "Ｕｓｅｒ ＩD : "
 			color: "#c1b492"
 			font.pixelSize: 16
 		}

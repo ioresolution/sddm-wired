@@ -1,14 +1,17 @@
-# sddm-wired (temp)
+# SDDM-WIRED
 
 
-Another fork of [sddm-wired-lain-theme](https://github.com/lll2yu/sddm-lain-wired-theme)   +   [this](https://github.com/slowayy/SDDM-Lain-Wired/) !!!
+This is a fork of [sddm-wired-lain-theme](https://github.com/lll2yu/sddm-lain-wired-theme) that does a better justice to the [login page](https://fauux.neocities.org/login)
+
+
+credits to [slowayyy](https://github.com/slowayy/SDDM-Lain-Wired/) for images and more.
 
 ### Installation :-
 
-- clone this directory
-- copy directory to  `/usr/share/sddm/themes/`
+- clone this directory `git clone https://github.com/ioresolution/sddm-wired`
+- copy directory to  `/usr/share/sddm/themes/` using `cp sddm-wired /usr/share/sddm/themes/`
 - install ```sddm``` ```qt5-multimedia```  ```qt5-quickcontrols``` ````noto-fonts````
-- set sddm as your current login manager ```sudo systemctl enable sddm; sudo systemctl start sddm```
+- set sddm as your current login manager ```systemctl enable sddm && systemctl start sddm```
 
 ### Usage
 - Open up your configuration file `/etc/sddm.conf` and set `sddm-wired` as your current theme
@@ -19,11 +22,8 @@ Another fork of [sddm-wired-lain-theme](https://github.com/lll2yu/sddm-lain-wire
 Current=sddm-wired
 ```
 
-#### Thoughts 
+#### To-Do 
 
-My initial goal was to implement what slowayy was trying to go for here (currently his repo is read-only)
-> the first idea was animate this image until fills the bottom screen, with animation ([line: 138](https://github.com/slowayy/SDDM-Lain-Wired/blob/main/Main.qml))
-
-Which I failed to do. Thats asking for a lot! or (at least to me). I think, this one is good as it is right now. 
+- idk, create an issue if you have suggestion;)
 
 ![](https://github.com/ioresolution/sddm-wired/blob/main/Preview.png)

@@ -23,7 +23,7 @@ Current=sddm-wired
 ```
 
 #### To-Do 
-
+- migrate to qtquickcontrol2
 - change session button image
 - change shutdown + restart button image
 #

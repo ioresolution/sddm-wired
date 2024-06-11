@@ -1,7 +1,7 @@
 # SDDM-WIRED
 
 
-This is a fork of [sddm-wired-lain-theme](https://github.com/lll2yu/sddm-lain-wired-theme) that does a better justice to the [login page](https://fauux.neocities.org/login)
+This is a fork of [sddm-wired-lain-theme](https://github.com/lll2yu/sddm-lain-wired-theme) that reinstates upon [new login page](https://fauux.neocities.org/login) 
 
 
 credits to [slowayyy](https://github.com/slowayy/SDDM-Lain-Wired/) for images and more.
@@ -24,7 +24,7 @@ Current=sddm-wired
 
 #### To-Do 
 
-- idk, create an issue if you have suggestion;)
+- change session button image
+- change shutdown + restart button image
 #
-
 ![](https://github.com/ioresolution/sddm-wired/blob/main/Preview.png)
